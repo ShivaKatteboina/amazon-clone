@@ -11,7 +11,7 @@ A simple replica of the Amazon homepage built with HTML and CSS.
 ## How to Use
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/amazon-homepage.git
+    git clone https://github.com/ShivaKatteboina/amazon-homepage.git
     ```
 2. Open `index.html` in your browser.
 
